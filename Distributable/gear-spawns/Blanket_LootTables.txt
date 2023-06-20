@@ -1,0 +1,19 @@
+loottable=LootTableBackPack
+item=OldBlanket1 w=1
+item=OldBlanket2 w=1
+
+loottable=LootTableLocker
+item=OldBlanket1 w=2
+item=OldBlanket2 w=2
+
+loottable=LootTableDresser
+item=OldBlanket1 w=3
+item=OldBlanket2 w=3
+
+loottable=LootTableLocker
+item=OldBlanket1 w=1
+item=OldBlanket2 w=1
+
+loottable=LootTableWardrobe_regular
+item=OldBlanket1 w=5
+item=OldBlanket2 w=5

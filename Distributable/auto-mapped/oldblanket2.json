@@ -1,0 +1,45 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OldBlanket",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OldBlanketDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 300,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvClothHeavy",
+                                "PutBackAudio" : "Play_SndInvClothHeavy",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.6,
+                                "InspectAngles" : [45, -180, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_MakeshiftBlanketSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_MakeshiftBlanketMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 10,
+                                "YieldCounts" : [5],
+                                "YieldNames" : ["GEAR_Cloth"],
+                                "RequiredToolNames" : []
+                            },
+    "ModRepairableBehaviour" : {
+                                "Audio" : "Play_RepairingCloth",
+                                "Minutes" : 20,
+                                "Condition" : 30,
+                                "RequiredTools" : ["GEAR_SewingKit", "GEAR_HookAndLine"],
+                                "MaterialNames" : ["GEAR_Cloth"],
+                                "MaterialCounts" : [1]
+                            }							
+}

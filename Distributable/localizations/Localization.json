@@ -1,0 +1,34 @@
+{
+    "GAMEPLAY_MakeshiftBlanket" : {
+                            "English" : "Patchwork Blanket",
+							"Spanish (Spain)" : "Manta de retales"
+    },
+    "GAMEPLAY_MakeshiftBlanketDescription" : {
+                            "English" : "An improvised blanket sewn together from scraps of cloth. Will keep you a little warmer on those cold, winter nights.",
+							"Spanish (Spain)" : "Una manta improvisada, cosida con pedazos de tela. Te mantendrá algo más caliente en esas frías noches de invierno."
+    },
+	"GAMEPLAY_MakeshiftBlanketSingle" : {
+                            "English" : "blanket.",
+							"Spanish (Spain)" : "manta."
+    },
+	"GAMEPLAY_MakeshiftBlanketMultiple" : {
+                            "English" : "blankets.",
+							"Spanish (Spain)" : "mantas."
+    },
+	"GAMEPLAY_MakeshiftBedroll" : {
+                            "English" : "Patchwork Bedroll",
+							"Spanish (Spain)" : "Saco de dormir improvisado"
+    },
+    "GAMEPLAY_MakeshiftBedrollDescription" : {
+                            "English" : "An improvised bedroll sewn together from scraps of cloth. Should keep you warm enough.",
+							"Spanish (Spain)" : "Un saco de dormir improvisado, cosido con pedazos de tela. Debería mantenerte caliente, más o menos."
+    },
+    "GAMEPLAY_OldBlanket" : {
+                            "English" : "Old Blanket",
+							"Spanish (Spain)" : "Manta vieja"
+    },
+    "GAMEPLAY_OldBlanketDescription" : {
+                            "English" : "An old and dusty wool blanket. Abandoned, but still soft to the touch. Will keep you warmer on those cold, winter nights.",
+							"Spanish (Spain)" : "Una vieja y polvorienta manta de lana. Abandonada, pero aún es suave al tacto. Te mantendrá más caliente en esas frías noches de invierno."
+    }
+}

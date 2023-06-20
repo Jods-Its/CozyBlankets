@@ -1,0 +1,17 @@
+{
+    "Name": "BedrollFromBlankets",
+    "RequiredGear": [{"Item": "GEAR_MakeshiftBlanket","Count": 2}, {"Item": "GEAR_LeatherDried","Count": 1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_MakeshiftBedroll",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "Play_CraftingCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
