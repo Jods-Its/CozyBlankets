@@ -31,7 +31,7 @@ This mod is a remade version of ds5678's [Blanket Mod](https://github.com/ds5678
 **V.1.4.0:**
 * Completely remade the ModComponent part, updated the original code.
 * Find old blankets in various containers or craft your own patchwork blankets. By default, old blankets add a +2ºC bonus, while crafted ones only +1ºC.
-* Craft your own improvised bedrolls using cloth or patchwork blankets. The stats are the same as a regular bedroll.
+* Craft your own improvised bedrolls using cloth or patchwork blankets. The stats are the same as a regular bedroll by default.
 * The more blankets you have in your inventory, the more bonus ºC you will have. By default, you can stack up to 5 blankets of each type, reaching a +5ºC with Patchwork Blankets and +10ºC with Old Blankets.
 * Change all bonuses using ModSettings. Default settings recommended.
 
