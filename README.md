@@ -23,7 +23,7 @@ This mod is a remade version of ds5678's [Blanket Mod](https://github.com/ds5678
 > Change warmth bonuses of Patchwork Bedrolls and blankets.
 
 ## Installation
-* Download latest CozyBlankets.zip file in [releases](), unzip, drop both .modcomponent and .dll files in the mod folder and enjoy!
+* Download latest CozyBlankets.zip file in [releases](https://github.com/Jods-Its/CozyBlankets/releases), unzip, drop both .modcomponent and .dll files in the mod folder and enjoy!
 * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
 
 ## Contents 
