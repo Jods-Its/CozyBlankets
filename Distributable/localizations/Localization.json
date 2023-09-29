@@ -2,41 +2,49 @@
     "GAMEPLAY_MakeshiftBlanket" : {
                             "English" : "Patchwork Blanket",
 							"Spanish (Spain)" : "Manta de retales",
-                            "Turkish" : "Yamalı Battaniye"
+                            "Turkish" : "Yamalı Battaniye",
+							"Russian" : "Лоскутное одеяло"
     },
     "GAMEPLAY_MakeshiftBlanketDescription" : {
                             "English" : "An improvised blanket sewn together from scraps of cloth. Will keep you a little warmer on those cold, winter nights.",
 							"Spanish (Spain)" : "Una manta improvisada, cosida con pedazos de tela. Te mantendrá algo más caliente en esas frías noches de invierno.",
-                            "Turkish" : "Kumaş parçalarından birbirine dikilmiş doğaçlama bir battaniye. Bu soğuk kış gecelerinde içinizi biraz daha ısıtacak."
+                            "Turkish" : "Kumaş parçalarından birbirine dikilmiş doğaçlama bir battaniye. Bu soğuk kış gecelerinde içinizi biraz daha ısıtacak.",
+							"Russian" : "Импровизированное одеяло, сшитое из лоскутков ткани. Сохранит ваше тепло в эти холодны зимние ночи."
     },
 	"GAMEPLAY_MakeshiftBlanketSingle" : {
                             "English" : "blanket.",
 							"Spanish (Spain)" : "manta.",
-                            "Turkish" : "Battaniye"
+                            "Turkish" : "Battaniye",
+							"Russian" : "одеяло."
     },
 	"GAMEPLAY_MakeshiftBlanketMultiple" : {
                             "English" : "blankets.",
 							"Spanish (Spain)" : "mantas.",
-                            "Turkish" : "Battaniyeler"
+                            "Turkish" : "Battaniyeler",
+							"Russian" : "одеяла."
     },
 	"GAMEPLAY_MakeshiftBedroll" : {
                             "English" : "Patchwork Bedroll",
 							"Spanish (Spain)" : "Saco de dormir improvisado",
-                            "Turkish" : "El Yapımı Uyku Tulumu"
+                            "Turkish" : "El Yapımı Uyku Tulumu",
+							"Russian" : "Лоскутный спальник"
     },
     "GAMEPLAY_MakeshiftBedrollDescription" : {
                             "English" : "An improvised bedroll sewn together from scraps of cloth. Should keep you warm enough.",
 							"Spanish (Spain)" : "Un saco de dormir improvisado, cosido con pedazos de tela. Debería mantenerte caliente, más o menos.",
-                            "Turkish" : "Kumaş parçalarından birbirine dikilmiş doğaçlama bir uyku tulumu. Seni yeterince sıcak tutmalı."
+                            "Turkish" : "Kumaş parçalarından birbirine dikilmiş doğaçlama bir uyku tulumu. Seni yeterince sıcak tutmalı.",
+							"Russian" : "Импровизированный спальник, сшитый из лоскутков ткани. Может помочь сохранить тепло."
     },
     "GAMEPLAY_OldBlanket" : {
                             "English" : "Old Blanket",
 							"Spanish (Spain)" : "Manta vieja",
-                            "Turkish" : "Eski Bir Battaniye"
+                            "Turkish" : "Eski Bir Battaniye",
+							"Russian" : "Старое одеяло"
     },
     "GAMEPLAY_OldBlanketDescription" : {
                             "English" : "An old and dusty wool blanket. Abandoned, but still soft to the touch. Will keep you warmer on those cold, winter nights.",
 							"Spanish (Spain)" : "Una vieja y polvorienta manta de lana. Abandonada, pero aún es suave al tacto. Te mantendrá más caliente en esas frías noches de invierno.",
-                            "Turkish" : "Eski ve tozlu bir yün battaniye. Terk edilmiş ama yine de yumuşak. O soğuk kış gecelerinde içinizi ısıtacak."
+                            "Turkish" : "Eski ve tozlu bir yün battaniye. Terk edilmiş ama yine de yumuşak. O soğuk kış gecelerinde içinizi ısıtacak.",
+							"Russian" : "Старое и пыльное шерстяное одеяло. Брошенное, но всё еще мягкое на ощупь. Сохранит ваше тепло в эти холодны зимние ночи."
     }
 }
