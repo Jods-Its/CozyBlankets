@@ -9,7 +9,7 @@
                             "English" : "An improvised blanket sewn together from scraps of cloth. Will keep you a little warmer on those cold, winter nights.",
 							"Spanish (Spain)" : "Una manta improvisada, cosida con pedazos de tela. Te mantendrá algo más caliente en esas frías noches de invierno.",
                             "Turkish" : "Kumaş parçalarından birbirine dikilmiş doğaçlama bir battaniye. Bu soğuk kış gecelerinde içinizi biraz daha ısıtacak.",
-							"Russian" : "Импровизированное одеяло, сшитое из лоскутков ткани. Сохранит ваше тепло в эти холодны зимние ночи."
+							"Russian" : "Импровизированное одеяло, сшитое из лоскутков ткани. Сохранит ваше тепло в эти холодные зимние ночи."
     },
 	"GAMEPLAY_MakeshiftBlanketSingle" : {
                             "English" : "blanket.",
@@ -45,6 +45,6 @@
                             "English" : "An old and dusty wool blanket. Abandoned, but still soft to the touch. Will keep you warmer on those cold, winter nights.",
 							"Spanish (Spain)" : "Una vieja y polvorienta manta de lana. Abandonada, pero aún es suave al tacto. Te mantendrá más caliente en esas frías noches de invierno.",
                             "Turkish" : "Eski ve tozlu bir yün battaniye. Terk edilmiş ama yine de yumuşak. O soğuk kış gecelerinde içinizi ısıtacak.",
-							"Russian" : "Старое и пыльное шерстяное одеяло. Брошенное, но всё еще мягкое на ощупь. Сохранит ваше тепло в эти холодны зимние ночи."
+							"Russian" : "Старое и пыльное шерстяное одеяло. Брошенное, но всё еще мягкое на ощупь. Сохранит ваше тепло в эти холодные зимние ночи."
     }
 }
