@@ -13,5 +13,5 @@ internal static class BuildInfo
 {
 	internal const string ModName = "CozyBlankets";
 	internal const string ModAuthor = "ds5678, Jods-Its";
-	internal const string ModVersion = "1.4.0";
+	internal const string ModVersion = "1.4.2";
 }

@@ -6,10 +6,10 @@ internal sealed class ModClassInheritingFromMelonMod : MelonMod
 {
 	public override void OnInitializeMelon()
 	{
-        MelonLoader.MelonLogger.Msg("Bedrolling...");
-        MelonLoader.MelonLogger.Msg("Finding cozyness...");
-        MelonLoader.MelonLogger.Msg("Sewing blankets...");
-        MelonLoader.MelonLogger.Msg("CozyBlankets Loaded!");
+        MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Bedrolling...");
+        MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Finding cozyness...");
+        MelonLoader.MelonLogger.Msg(System.ConsoleColor.Yellow, "Sewing blankets...");
+        MelonLoader.MelonLogger.Msg(System.ConsoleColor.Green, "CozyBlankets v1.4.2 Loaded!");
         Settings.instance.AddToModSettings("Cozy Blankets");
     }
 }
