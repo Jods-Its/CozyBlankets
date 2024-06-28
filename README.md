@@ -35,6 +35,11 @@ This mod is a remade version of ds5678's [Blanket Mod](https://github.com/ds5678
 * The more blankets you have in your inventory, the more bonus ºC you will have. By default, you can stack up to 5 blankets of each type, reaching a +5ºC with Patchwork Blankets and +10ºC with Old Blankets.
 * Change all bonuses using ModSettings. Default settings recommended.
 
+## Credits
+* Russian localization by [Tyler-Sky](https://github.com/Tyler-Sky).
+* Turkish localization by [Elderly-Emre](https://github.com/Elderly-Emre).
+* Italian localization by [LettereUniche](https://github.com/LettereUniche).
+
 ## Troubleshooting
 
 For any doubt, question or technical support you might need, contact me throught the [TLD Modding](https://discord.com/invite/nb2jQez) Discord server and place a message at #jods.
